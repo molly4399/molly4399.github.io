@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<title>蔡培林</title>
+</head>
+<body>
+	<header>
+		<h1>欢迎来到蔡培林的睡教个人网站</h1>
+		<nav>
+			<ul>
+				<li><a href="#">首页(空的)</a></li>
+				<li><a href="#">文章(没有)</a></li>
+				<li><a href="#">作品(也木有)</a></li>
+				<li><a href="#">联系我(noway)</a></li>
+			</ul>
+		</nav>
+	</header>
+	<main>
+		<section>
+			<h2>个人简介</h2>
+			<p>姓名：蔡培林 		性别：女   	职业大学生	爱好：睡觉</p>
+		</section>
+		<section>
+			<h2>最新文章</h2>
+			<ul>
+				<li><a href="#">文章标题1（空）</a></li>
+				<li><a href="#">文章标题2（没想好）</a></li>
+				<li><a href="#">文章标题3（别看了下面也没有）</a></li>
+			</ul>
+		</section>
+		<section>
+			<h2>作品展示</h2>
+			<ul>
+				<li><a href="#">作品标题1（还不信）</a></li>
+				<li><a href="#">作品标题2（都说是空的咯）</a></li>
+				<li><a href="#">作品标题3（拜拜）</a></li>
+			</ul>
+		</section>
+		<section>
+			<h2>联系我</h2>
+			<p>邮箱：shuijiao@qq.com</p>
+			<p>微信：shuijiao12138</p>
+		</section>
+	</main>
+	<footer>
+		<p>版权所有 © 2023 蔡培林的个人网站</p>
+	</footer>
+</body>
+</html>
